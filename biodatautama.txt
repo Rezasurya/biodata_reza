@@ -1,5 +1,4 @@
 Nama                  : Reza Surya Sonjaya
 Tempat,tanggal lahir  : bandung,27 september 20005
 Alamat                : jln jendral sudiraman RT08/04 kel dunguscariang kec.andir
-hoby                  : bermain gmae dan futsal
-cita cita             : menjadi progammer
+hoby                  : bermain game dan futsal
