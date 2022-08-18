@@ -6,3 +6,4 @@ PAUD                  : MADRASAH
 SD                    : SDN 011 CIBUNTU
 SMP                   : SMPN 41 BANDUNG
 SMK                   : SMK PRAKARYA INTERNASIONAL
+PEKERJAAN             : Prakerin Cyberlabs, jadi IT konsultan di Cybersolution
